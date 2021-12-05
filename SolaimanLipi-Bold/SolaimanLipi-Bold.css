@@ -1,0 +1,9 @@
+/* Webfont: SolaimanLipi-Bold */@font-face {
+    font-family: 'SolaimanLipi-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/topuhit/SolaimanLipi-Bold/SolaimanLipi-Bold/SolaimanLipi-Bold.woff2') format('woff2'), /* Modern Browsers */
+         url('https://cdn.jsdelivr.net/gh/topuhit/SolaimanLipi-Bold/SolaimanLipi-Bold/SolaimanLipi-Bold.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
