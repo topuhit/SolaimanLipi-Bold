@@ -7,3 +7,4 @@ Also fake Bold font doesn't seems smooth whereis This will look sharp and crispy
 
 # Link
 [https://topuhit.github.io/SolaimanLipi-Bold/]
+[https://topuhit.github.io/SolaimanLipi-Bold/SolaimanLipi-Bold] Bold Only Font for specific application.
