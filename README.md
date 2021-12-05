@@ -1,0 +1,2 @@
+# SolaimanLipi-Bold
+SolaimanLipi-Bold
