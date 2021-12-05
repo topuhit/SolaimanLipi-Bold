@@ -1,8 +1,8 @@
 /* Webfont: SolaimanLipi-Bold */@font-face {
     font-family: 'SolaimanLipi';
-    src: url('SolaimanLipi.woff2') format('woff2'), /* Modern Browsers */
-         url('SolaimanLipi.otf') format('opentype'); /* Safari, Android, iOS */
-             font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/topuhit/SolaimanLipi-Bold/SolaimanLipi.woff2') format('woff2'), /* Modern Browsers */
+         url('https://cdn.jsdelivr.net/gh/topuhit/SolaimanLipi-Bold/SolaimanLipi.otf') format('opentype'); /* Safari, Android, iOS */
+    font-style: normal;
     font-weight: bold;
     text-rendering: optimizeLegibility;
 }
