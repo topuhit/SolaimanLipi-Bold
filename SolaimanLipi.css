@@ -1,0 +1,9 @@
+/* Webfont: SolaimanLipi-Bold */@font-face {
+    font-family: 'SolaimanLipi';
+    src: url('SolaimanLipi.woff2') format('woff2'), /* Modern Browsers */
+         url('SolaimanLipi.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
